@@ -9,6 +9,8 @@ PyTorch >= 1.10（我是用的是1.10）
 下载代码：
 ```
 git clone https://github.com/Cathrinex/AIexperiment.git
+```
+
 ### 二、准备数据集
 1.确定待检测对象，得到jpg格式图片，放在detection/target/下  
 2.下载背景图片1000张左右，放在detection/background/下  
