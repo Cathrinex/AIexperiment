@@ -1,4 +1,4 @@
-# AIexperiment
+# AIexperiment  TinySSD
 ## 人工智能综合实验作业
 ### 环境配置  
 
