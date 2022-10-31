@@ -24,3 +24,6 @@ PyTorch >= 1.10（我是用的是1.10）
 ![Figure_3_epoch30](https://user-images.githubusercontent.com/117092266/199030878-daac98cb-7fb5-4ec3-b942-b4e460253b58.png)
 
 ### 效果提升
+为了提升目标检测的效果，我尝试了一些数据增强的方法，在训练阶段中对图片加入了高斯噪声，之后将训练的次数增加到了190，测试结果的对比如下：  
+![image](https://user-images.githubusercontent.com/117092266/199035298-6d44b2b5-29dd-4952-9739-675de4bb8bfd.png)
+左侧的图片是效果提升前的图片，右侧的图片是效果提升后的图片，我们可以看到进行了效果提升后，目标检测的效果明显变好了。
